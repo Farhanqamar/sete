@@ -1,0 +1,45 @@
+body {
+    background-image: url("badr.png");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+}
+
+h1 {
+    text-align: center;
+    padding: 15px 25px;
+    background-color: rgba(245, 98, 98, 0.5);
+    color: darkorange;
+    font-size: 50px;
+
+
+}
+
+.set {
+    color: blue;
+    font-size: xx-large;
+}
+
+h1:hover {
+    color: rgb(77, 6, 209);
+    padding: 15px 25px;
+    background-color: cyan;
+
+}
+a {
+    padding: 10px;
+    background-color:darkorange;
+    color: brown;
+    text-align: center;
+}
+
+a:hover {
+    color: cyan;
+    text-align: center;
+    background-color: brown;
+
+}
+.center {
+    text-align: center;
+}
